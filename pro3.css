@@ -1,0 +1,306 @@
+.seca{
+    /* height: 75px; */
+    background-color: rgb(255, 255, 255);
+}
+.head1{
+    font-size: 20px;
+    padding-top: 13px;
+    margin-bottom: 0px;
+}
+.para1{
+    font-size: 10px;
+    padding: 0px 10px;
+}
+.secb{
+    /* height: 650px; */
+    background-color:rgba(56, 147, 244, 0.754);
+}
+.inboxa{
+    min-height: 600px;
+    /* background-color: rgba(56, 147, 244, 0.754); */
+    background-image: url(model123-removebg-preview.png);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* padding-left: 300px; */
+    background-position: center;
+    
+    
+    
+}
+.inboxb{
+    min-height: 600px;
+    /* background-color: rgba(56, 147, 244, 0.754); */
+}
+.paraa{
+    /* text-align: center; */
+    font-size: 40px;
+    color: white;
+    padding-top: 100px;
+    /* padding-right: 300px; */
+    font-weight: bold;
+}
+.parab{
+    color:white;
+}
+.linea{
+    background-color: white;
+    height: 1px;
+    width: 300px;
+}
+.parac{
+    margin-top: 20px;
+    color: white;
+}
+.book{
+    background-color: white;
+    color:rgba(56, 147, 244, 0.754);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 25px;
+    
+}
+.secc{
+    background-color: white;
+    /* height: 300px; */
+
+}
+.inboxc{
+    text-align: center;
+    min-height: 260px;
+    
+    
+
+}
+.head2{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.lineb{
+    height: 2px;
+    width: 100px;
+    background-color: rgba(128, 128, 128, 0.298);
+    text-align: center;
+    margin: auto;
+    
+}
+.parad{
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.see{
+    font-size: 15px;
+    border: 2px solid rgba(56, 147, 244, 0.754);
+    text-decoration: none;
+    padding: 2px 20px;
+    color: rgba(56, 147, 244, 0.754);
+    font-weight: bold;
+    
+
+}
+.secd{
+    background-color: rgba(49, 146, 250, 0.754);
+    /* height: 350; */
+}
+.inboxd{
+    /* background-color: rgba(56, 147, 244, 0.754) ; */
+    /* height: 350px; */
+    /* margin-top: 50px; */
+    text-align: center;
+}
+.tap{
+    font-size: 50px;
+   border: 1px solid white;
+   border-radius: 50%;
+   padding: 10px 15px;
+   margin-top: 20px;
+   display: inline-block;
+   color: white;
+   border-width: 3px;
+
+}
+.head3{
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+    
+}
+.linec{
+    min-height: 2px;
+    width: 100px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+.parae{
+    margin-top: 20px;
+    color: white;
+}
+.sece{
+    /* height: 370px; */
+    background-color: black;
+}
+.inboxe{
+    text-align: center;
+
+}
+.head4{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 60px;
+}
+.paraf{
+    text-align: center;
+    color: white;
+}
+.parag{
+    text-align: center;
+    color: white;
+}
+.book1{
+    background-color: white;
+    color:rgba(56, 147, 244, 0.754);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 25px;
+    display: inline-block;
+    margin-bottom: 20px;
+   
+}
+.secf{
+    /* height: 700px; */
+    background-color: white;
+}
+.inboxf{
+    min-height: 300;
+    background-color: white;
+    color: black;
+    font-size: 40PX;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30PX;
+}
+.inboxg{
+    text-align: center;
+    min-height: 310px;
+}
+.secg{
+    /* height: 400px; */
+    background-color:black ;
+    margin-top: 50px;
+}
+.parah{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 40px;
+}
+.head5{
+    color: white;
+    text-align: center;
+}
+.parai{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.sech{
+    background-color: white;
+    /* height: 200px; */
+}
+.facebook{
+    color:gray ;
+    font-size: 20px;
+    
+    
+    
+}
+.inboxh{
+    text-align: center;
+    padding-top: 30px;
+}
+.paraj{
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    padding-top: 25px;
+}
+.see{
+    text-decoration: underline;
+    display: inline-block;
+    border: none;
+    font-size: 10px;
+}
+.inbox1{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(model\ walking.jpg);
+    background-size: cover;
+}
+.inbox2{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(black\ suit.jpg);
+    background-size: cover;
+}
+.inbox3{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(two\ models.jpg);
+    background-size: cover;
+}
+.inbox4{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(marrige\ suit.jpg);
+    background-size: cover;
+}
+.inbox5{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(hat.jpg);
+    background-size: cover;
+}
+.inbox6{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(blue\ suit.jpg);
+    background-size: cover;
+    margin-top: 10px;
+}
+.inbox7{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(kis\ mar.jpeg);
+    background-size: cover;
+    margin-top: 10px;
+}
+.inbox8{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(look.jpg);
+    background-size: cover;
+    margin-top: 10px;
+}
+.inbox9{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(award.jpg);
+    background-size: cover;
+    margin-top: 10px;
+}
+.inbox10{
+    min-height: 250px;
+    background-color: aliceblue;
+    background-image: url(hug.jpg);
+    background-size: cover;
+    margin-top: 10px;
+}
+@media(max-width:991px){
+
+}
